@@ -1,0 +1,17 @@
+img#Laboral{width: 100%;
+    border-radius: 5px;
+}
+
+img.derecha {
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+img.izquierda {
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    vertical-align: middle;
+}
